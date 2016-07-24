@@ -1,0 +1,16 @@
+{
+//basic info
+  string playername = "John";
+  int playerhealth = 100;
+  int playerhunger = 100;
+  int playerstamina = 200; //default 100
+  
+//stats (out of 10 for starters)
+  int stat_strenth = 6;
+  int stat_speed = 5;
+  int stat_stealth = 3;
+  int stat_survival = 4; //adds hunger
+  int stat_tech = 5;
+  int stat_fitness = 8; //adds stamina
+  int stat_firstaid = 5; //adds health
+}
