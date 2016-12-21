@@ -1,9 +1,0 @@
-		void chop_treeClick(object sender, EventArgs e)
-		{
-		  if (stamina >= 15)
-		  {
-		    wood = wood + 5; //wood is added
-		    trees = trees - 1; //remove a tree.
-		    stamina = stamina - 15; //stamina decreases
-		  }
-		}
